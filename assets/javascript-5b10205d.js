@@ -1,0 +1,7 @@
+import{conf as e,language as t}from"./typescript-778415ea.js";import"./MonacoView-b44802c0.js";import"./index-7f005f90.js";import"./Tooltip-be5c1a31.js";import"./DataTable-a5cb7ef3.js";import"./Button-51ddc7f6.js";import"./Ellipsis-c22db23e.js";import"./Icon-69c6f82c.js";import"./Dropdown-3be927c0.js";import"./download-20730cc7.js";import"./Space-a02d32d0.js";
+/*!-----------------------------------------------------------------------------
+ * Copyright (c) Microsoft Corporation. All rights reserved.
+ * Version: 0.49.0(383fdf3fc0e1e1a024068b8d0fd4f3dcbae74d04)
+ * Released under the MIT license
+ * https://github.com/microsoft/monaco-editor/blob/main/LICENSE.txt
+ *-----------------------------------------------------------------------------*/var s=e,i={defaultToken:"invalid",tokenPostfix:".js",keywords:["break","case","catch","class","continue","const","constructor","debugger","default","delete","do","else","export","extends","false","finally","for","from","function","get","if","import","in","instanceof","let","new","null","return","set","static","super","switch","symbol","this","throw","true","try","typeof","undefined","var","void","while","with","yield","async","await","of"],typeKeywords:[],operators:t.operators,symbols:t.symbols,escapes:t.escapes,digits:t.digits,octaldigits:t.octaldigits,binarydigits:t.binarydigits,hexdigits:t.hexdigits,regexpctl:t.regexpctl,regexpesc:t.regexpesc,tokenizer:t.tokenizer};export{s as conf,i as language};
